@@ -1,0 +1,29 @@
+#top_bar {
+    background-color: darkcyan;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+body {
+    background-color:floralwhite;
+}
+header {
+    background-color:floralwhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    text-align: center;
+}
+h1,h2,h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1  {
+    color: darkslategray;
+    font-size: 30px;
+}
+h2  {
+    color: darkslategray;
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
